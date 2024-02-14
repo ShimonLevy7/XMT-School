@@ -1,0 +1,64 @@
+.test_row
+{
+	position: relative;
+	background-color: burlywood;
+	border: 2px double rgb(67, 65, 71);
+	vertical-align: middle;
+	width: 64vw;
+	margin-top: 8px;
+	margin-bottom: 8px;
+}
+
+.test_title
+{
+	display: block;
+	color: black;
+	font-size: 2em;
+	margin: 8px;
+	text-align: left;
+}
+
+.test_details
+{
+	display: block;
+	color: rgb(32, 32, 32);
+	font-size: 1em;
+	margin: 8px;
+	text-align: left;
+}
+
+.test_button
+{
+	position: absolute;
+	right: 0;
+	transform: translateX(100%);
+	top: 50%;
+	transform: translateY(-50%);
+	margin-right: 32px;
+
+	background-color: rgb(48, 48, 48);
+	border: rgb(48, 48, 48);
+	border-radius: 4px;
+	color: white;
+	cursor: pointer;
+
+	font-size: 1.25em;
+	width: 8em;
+	height: 2em;
+}
+
+.test_button:hover
+{
+	background-color: rgb(64, 64, 64);
+}
+
+.test_button:active
+{
+	background-color: rgb(48, 48, 48);
+}
+
+.test_button:disabled
+{
+	cursor: not-allowed;
+	background-color: rgb(128, 128, 128);
+}

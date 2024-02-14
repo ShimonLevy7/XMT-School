@@ -1,0 +1,24 @@
+.label
+{
+	font-style: normal;
+
+	font-size: 1em;
+
+	border-radius: 16px;
+	padding: 8px;
+
+	background-color: rgb(48, 48, 48);
+}
+
+.avatar_image
+{
+	display: inline-block;
+
+	height: 100%;
+	vertical-align: middle;
+
+	user-select: none;
+
+	border: 4px solid aliceblue;
+	border-radius: 32px;
+}

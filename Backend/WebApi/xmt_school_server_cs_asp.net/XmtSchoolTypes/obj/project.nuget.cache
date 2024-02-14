@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Bqb5veXKA/sr22ocEEdDtk9CM0yBs5S3sGLNRHpjwn4VG8shI6+OsV4VEkouNWCM1wWzRTVzzJ2N15DB5WKkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\Mami Tomoe\\XMT-School-Indev\\XMT School Project\\Backend\\WebApi\\xmt_school_server_cs_asp.net\\XmtSchoolTypes\\XmtSchoolTypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

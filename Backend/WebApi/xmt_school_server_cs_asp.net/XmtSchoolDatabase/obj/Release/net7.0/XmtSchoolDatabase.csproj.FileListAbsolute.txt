@@ -1,0 +1,58 @@
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.deps.json
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.runtimeconfig.json
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.AssemblyReference.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.AssemblyInfoInputs.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.AssemblyInfo.cs
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.CopyComplete
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\refint\XmtSchoolDatabase.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.genruntimeconfig.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\ref\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.deps.json
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.runtimeconfig.json
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.AssemblyReference.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.AssemblyInfoInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.AssemblyInfo.cs
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.CopyComplete
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\refint\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.genruntimeconfig.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\ref\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.deps.json
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.runtimeconfig.json
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolDatabase.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.AssemblyReference.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.AssemblyInfoInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.AssemblyInfo.cs
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.csproj.CopyComplete
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\refint\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.genruntimeconfig.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\ref\XmtSchoolDatabase.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolDatabase\obj\Release\net7.0\XmtSchoolDatabase.sourcelink.json

@@ -1,0 +1,5 @@
+li a
+{
+	user-select: none;
+	cursor: pointer;
+}

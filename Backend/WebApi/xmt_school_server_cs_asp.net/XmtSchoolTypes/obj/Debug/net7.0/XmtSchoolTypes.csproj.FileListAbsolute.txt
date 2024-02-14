@@ -1,0 +1,31 @@
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolTypes.deps.json
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.csproj.AssemblyReference.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.AssemblyInfoInputs.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.AssemblyInfo.cs
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.csproj.CopyComplete
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\refint\XmtSchoolTypes.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\ref\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolTypes.deps.json
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\bin\Debug\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.csproj.AssemblyReference.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.AssemblyInfoInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.AssemblyInfo.cs
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.csproj.CopyComplete
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\refint\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\ref\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\Mami Tomoe\XMT-School-Indev\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolTypes\obj\Debug\net7.0\XmtSchoolTypes.sourcelink.json

@@ -1,0 +1,29 @@
+export const TOKEN_KEY = 'USER_TOKEN';
+
+export class LocalStorage
+{
+	static saveObjectInLocalStorage = function(key: string, dataObject: object)
+	{
+		let dataStr = JSON.stringify(dataObject);
+
+		localStorage.setItem(key, dataStr);
+	}
+
+	static readObjectFromLocalStorage = function(key: string)
+	{
+		let dataStr: string | null = localStorage.getItem(key);
+		let dataObject;
+
+		if (dataStr)
+			try
+			{
+				dataObject = JSON.parse(dataStr);
+			}
+			catch { }
+
+		return dataObject || [];
+	}
+
+	static saveInLocalStorage = (key: string, data: string) => localStorage.setItem(key, data);
+	static readFromLocalStorage = (key: string) => localStorage.getItem(key);
+}

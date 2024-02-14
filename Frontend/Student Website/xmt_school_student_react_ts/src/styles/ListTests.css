@@ -1,0 +1,6 @@
+/* There's a weird issue with the select element for Datatables.net
+// where the background and foreground are nearly the same colour.
+// This fix is made to address that. */
+select[name="DataTables_Table_0_length"] {
+	background-color: #1f1f1f !important;
+}

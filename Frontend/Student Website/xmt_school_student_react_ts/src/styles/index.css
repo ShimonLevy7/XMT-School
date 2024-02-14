@@ -1,0 +1,40 @@
+body
+{
+  margin: 0;
+  font-size: 1em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code
+{
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button
+{
+	user-select: none;
+}
+
+p
+{
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+}
+
+.centre
+{
+	margin: auto;
+	text-align: center;
+}
+
+.centre_image
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}

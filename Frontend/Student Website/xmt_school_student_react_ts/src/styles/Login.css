@@ -1,0 +1,20 @@
+form
+{
+	overflow: hidden;
+}
+
+fieldset
+{
+	max-width: 25em;
+}
+
+input
+{
+	float: right;
+	clear: both;
+}
+
+label
+{
+	font-size: 0.7em;
+}

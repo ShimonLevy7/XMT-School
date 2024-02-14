@@ -1,0 +1,25 @@
+.userInfo
+{
+	font-size: 0.6em;
+	cursor: help;
+}
+
+.italic
+{
+	font-style: italic;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.select
+{
+	user-select: text;
+}
+
+.noSelect
+{
+	user-select: none;
+}

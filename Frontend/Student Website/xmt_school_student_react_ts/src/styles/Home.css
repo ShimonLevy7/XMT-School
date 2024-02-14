@@ -1,0 +1,35 @@
+body {
+	font-family: 'Arial', sans-serif;
+	line-height: 1.6;
+	background-color: #f4f4f4;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+h1 {
+	color: #71b8ff;
+}
+
+h2 {
+	color: #b9b9b9;
+}
+
+p {
+	color: #bcbcbc;
+}
+
+.news-container {
+	background-color: #2d2d2d;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	margin: auto;
+	max-width: 75%;
+}
+
+.news-item {
+	margin-bottom: 15px;
+}
