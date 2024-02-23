@@ -10,4 +10,6 @@ Basic features:
 
 Refer to the included presentation to know more about the selling points of the project!
 
+As of the date of posting this project, you may visit a live version of it [here](https://xmt-school.tiro-finale.com/).
+
 P.S.: You must have your own database (this project uses MySQL by default), as this project depends on it.
