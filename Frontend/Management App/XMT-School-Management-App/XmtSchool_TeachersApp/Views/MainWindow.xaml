@@ -1,0 +1,397 @@
+﻿<Window x:Class="XmtSchool.TeachersAppViews.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XmtSchool.TeachersAppViews"
+        xmlns:util="clr-namespace:Wpf.Util"
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+        ui:WindowHelper.UseModernWindowStyle="True"
+        mc:Ignorable="d"
+        Title="XMT School - Management App - Logged in as Guest (Guest)"
+        Height="720" MinHeight="720"
+        Width="1280" MinWidth="1280"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Window_Loaded">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="0.6*"/>
+            <ColumnDefinition Width="0.5*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+
+        <Label
+            Content="XMT School"
+            HorizontalAlignment="Left"
+            Margin="10,0,0,0"
+            Grid.Column="0"
+            VerticalAlignment="Center"/>
+
+        <Image
+            Name="Avatar_Image"
+            HorizontalAlignment="Stretch"
+            Grid.Column="3"
+            VerticalAlignment="Stretch"
+            Margin="4,4,4,4"/>
+
+        <Button
+            Width="55"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Stretch"
+            Content="Logout"
+            FontSize="11"
+            Grid.Column="2"
+            Margin="4,10"
+            Click="Logout"/>
+
+        <TabControl Grid.Row="1" Grid.ColumnSpan="4">
+
+            <TabItem Header="My Profile" Name="ProfileTab">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="17*"/>
+                        <ColumnDefinition Width="143*"/>
+                        <ColumnDefinition Width="160*"/>
+                        <ColumnDefinition Width="160*"/>
+                        <ColumnDefinition Width="160*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="0.5*"/>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <Border BorderBrush="Gray"
+                        BorderThickness="1"
+                        Grid.Column="2"
+                        Grid.Row="1"
+                        Grid.ColumnSpan="2"
+                        CornerRadius="20"
+                        Width="608" Height="288"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="71*"/>
+                                <ColumnDefinition Width="253*"/>
+                                <ColumnDefinition Width="292*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="1*"/>
+                                <RowDefinition Height="1.5*"/>
+                                <RowDefinition Height="1.5*"/>
+                                <RowDefinition Height="1.5*"/>
+                                <RowDefinition Height="1*"/>
+                            </Grid.RowDefinitions>
+                            <!-- Inner Border with Image -->
+
+                            <!-- Labels and other content here -->
+                            <Label Name="ProfileUsername"
+                               Content="N/A"
+                               FontSize="48"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Grid.Row="1" Grid.Column="1"/>
+
+                            <Label Name="ProfileEmail"
+                               Content="N/A"
+                               FontSize="16"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Grid.Row="2" Grid.Column="1"/>
+
+                            <Label Name="ProfileAccountType"
+                               Content="N/A"
+                               FontSize="24"
+                               VerticalAlignment="Center"
+                               HorizontalAlignment="Center"
+                               Grid.Row="3" Grid.Column="1"/>
+                            
+                            <Border 
+                                BorderThickness="3"
+                                CornerRadius="20"
+                                BorderBrush="Gray"
+                                VerticalAlignment="Center"
+                                HorizontalAlignment="Center"
+                                Height="256" Width="256"
+                                Grid.Column="2" Grid.Row="0"
+                                Grid.RowSpan="5">
+                                <Border.Background>
+                                    <ImageBrush x:Name="ProfileAvatarImage" Stretch="Fill"/>
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Tests Management" Name="TestsMgtTab">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="809*"/>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="64"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="80"/>
+                    </Grid.RowDefinitions>
+
+                    <ListView Name="TestList" Grid.ColumnSpan="6" Margin="0,0,0,80" Grid.RowSpan="2" SelectionMode="Single"
+                              PreviewMouseRightButtonDown="TestList_PreviewMouseRightButtonDown"
+                              PreviewMouseLeftButtonDown="TestList_PreviewMouseLeftButtonDown"
+                              PreviewMouseRightButtonUp="TestList_PreviewMouseRightButtonUp"
+                              IsSynchronizedWithCurrentItem="True"
+                              util:GridViewSort.Command="{Binding SortCommand}"
+                              util:GridViewSort.AutoSort="True">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Id" util:GridViewSort.PropertyName="Test.Id" Width="Auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.Id}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Name" util:GridViewSort.PropertyName="Test.Name" Width="Auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.Name}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Author" util:GridViewSort.PropertyName="AuthorName" Width="Auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding AuthorName}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Creation Date" util:GridViewSort.PropertyName="Test.CreationDate" Width="Auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.CreationDate}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="Start Date" util:GridViewSort.PropertyName="Test.StartDate" Width="Auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.StartDate}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Header="End Date" util:GridViewSort.PropertyName="Test.EndDate" Width="Auto">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.EndDate}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+
+                        <ListView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Name="ContextTestAdd" Header="Add Test" Click="ContextTestAdd_Click"/>
+                                <MenuItem Name="ContextTestEdit" Header="Edit Test" Click="ContextTestUpdate_Click"/>
+                                <MenuItem Name="ContextTestRemove" Header="Remove Test" Click="ContextTestRemove_Click"/>
+                            </ContextMenu>
+                        </ListView.ContextMenu>
+                    </ListView>
+
+                    <Button Content="⟳" Name="RefreshTestsBtn" FontSize="20" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="RefreshTestsBtn_Click"/>
+                    <Button Content="➕" Name="TestAddBtn" FontSize="20" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="TestAddBtn_Click"/>
+                    <Button Content="🗑️" Name="TestRemoveBtn" FontSize="20" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="TestRemoveBtn_Click"/>
+                    <Button Content="⚙️" Name="TestUpdateBtn" FontSize="20" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="TestUpdateBtn_Click"/>
+
+                    <TextBox 
+                        x:Name="TestSearch"
+                        Text="Search..." 
+                        Width="150"
+                        Height="30"
+                        Grid.Column="1" 
+                        Grid.Row="1"
+                        HorizontalAlignment="Left"
+                        GotFocus="TestSearch_GotFocus"
+                        LostFocus="TestSearch_LostFocus" TextChanged="TestSearch_TextChanged"/>
+
+                    <ComboBox x:Name="TestFilterOptions_ComboBox" Grid.Row="1" Grid.Column="1" Margin="155,0,0,0" ItemsSource="{Binding}" SelectionChanged="TestFilterOptions_ComboBox_SelectionChanged" Width="225" Grid.ColumnSpan="2" VerticalAlignment="Center"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Students Marks" Name="StudentsMks">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="279*"/>
+                        <ColumnDefinition Width="809*"/>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="64"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="80"/>
+                    </Grid.RowDefinitions>
+
+                    <ListView Name="MarkList" Grid.ColumnSpan="6" Margin="0,0,0,80" Grid.RowSpan="2" SelectionMode="Single"
+                              PreviewMouseRightButtonUp="MarkList_PreviewMouseRightButtonUp"
+                              PreviewMouseRightButtonDown="MarkList_PreviewMouseRightButtonDown"
+                              PreviewMouseLeftButtonDown="MarkList_PreviewMouseLeftButtonDown"
+                              IsSynchronizedWithCurrentItem="True"
+                              util:GridViewSort.Command="{Binding SortCommand}"
+                              util:GridViewSort.AutoSort="True">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="Auto" Header="Id" util:GridViewSort.PropertyName="Id">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Id}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Width="Auto" Header="Test Id" util:GridViewSort.PropertyName="Test.Id">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.Id}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Width="Auto" Header="Test Name" util:GridViewSort.PropertyName="Test.Name">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Test.Name}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Width="Auto" Header="Student Id" util:GridViewSort.PropertyName="Student.Id">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Student.Id}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Width="Auto" Header="Student Name" util:GridViewSort.PropertyName="Student.Username">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Student.Username}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                                <GridViewColumn Width="Auto" Header="Mark" util:GridViewSort.PropertyName="Points">
+                                    <GridViewColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Points}"/>
+                                        </DataTemplate>
+                                    </GridViewColumn.CellTemplate>
+                                </GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+
+                        <ListView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Name="ContextMarkView" Header="View Mark" Click="ContextMarkView_Click"/>
+                                <MenuItem Name="ContextMarkRemove" Header="Remove Mark" Click="ContextMarkRemove_Click"/>
+                            </ContextMenu>
+                        </ListView.ContextMenu>
+                    </ListView>
+
+                    <Button Content="⟳" Name="RefreshMarksBtn" FontSize="20" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="RefreshMarksBtn_Click"/>
+                    <Button Content="🗑️" Name="MarkRemoveBtn" FontSize="20" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="MarkRemoveBtn_Click"/>
+                    <Button Content="👁" Name="MarkViewBtn" FontSize="20" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="MarkViewBtn_Click"/>
+
+                    <TextBox 
+                        x:Name="MarkSearch"
+                        SelectionChanged="MarkSearch_SelectionChanged"
+                        Text="Search..." 
+                        Width="150"
+                        Height="30"
+                        Grid.Column="1" 
+                        Grid.Row="1"
+                        HorizontalAlignment="Left"
+                        GotFocus="MarkSearch_GotFocus"
+                        LostFocus="MarkSearch_LostFocus"/>
+                    
+                    <ComboBox x:Name="MarkFilterOptions_ComboBox" Grid.Row="1" Grid.Column="1" Margin="155,0,0,0" ItemsSource="{Binding}" SelectionChanged="MarkFilterOptions_ComboBox_SelectionChanged" Width="225" Grid.ColumnSpan="2" VerticalAlignment="Center"/>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Users Management" Name="UsersMgtTab">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="173*"/>
+                        <ColumnDefinition Width="916*"/>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="64"/>
+                        <ColumnDefinition Width="64"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="10*"/>
+                        <RowDefinition Height="1.5*"/>
+                    </Grid.RowDefinitions>
+
+                    <ListView Name="UserList" Grid.ColumnSpan="6" Margin="0,0,0,80" Grid.RowSpan="2" SelectionMode="Single"
+                              SelectionChanged="UserList_SelectionChanged"
+                              PreviewMouseRightButtonUp="UserList_PreviewMouseRightButtonUp"
+                              PreviewMouseLeftButtonDown="UserList_PreviewMouseLeftButtonDown"
+                              PreviewMouseRightButtonDown="UserList_PreviewMouseRightButtonDown"
+                              IsSynchronizedWithCurrentItem="True"
+                              util:GridViewSort.Command="{Binding SortCommand}"
+                              util:GridViewSort.AutoSort="True">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Width="Auto" DisplayMemberBinding="{Binding Id}" Header="Id" util:GridViewSort.PropertyName="Id"/>
+                                <GridViewColumn Width="Auto" DisplayMemberBinding="{Binding Username}" Header="Username" util:GridViewSort.PropertyName="Username"/>
+                                <GridViewColumn Width="Auto" DisplayMemberBinding="{Binding Type}" Header="Type" util:GridViewSort.PropertyName="Type"/>
+                                <GridViewColumn Width="Auto" DisplayMemberBinding="{Binding Email}" Header="Email" util:GridViewSort.PropertyName="Email"/>
+                            </GridView>
+                        </ListView.View>
+
+                        <ListView.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Name="ContextUserAdd" Header="Add User" Click="ContextUserAdd_Click"/>
+                                <MenuItem Name="ContextUserUpdate" Header="Edit User" Click="ContextUserUpdate_Click"/>
+                                <MenuItem Name="ContextUserRemove" Header="Remove User" Click="ContextUserRemove_Click"/>
+                            </ContextMenu>
+                        </ListView.ContextMenu>
+                    </ListView>
+
+                    <TextBox 
+                        x:Name="UserSearch"
+                        SelectionChanged="UserSearch_TextChanged"
+                        Text="Search..." 
+                        Width="150"
+                        Height="30"
+                        Grid.Column="1" 
+                        Grid.Row="1"
+                        HorizontalAlignment="Left"
+                        GotFocus="UserSearch_GotFocus"
+                        LostFocus="UserSearch_LostFocus"/>
+                    
+                    <ComboBox x:Name="UserFilterOptions_ComboBox" Grid.Row="1" Grid.Column="1" Margin="155,0,0,0" ItemsSource="{Binding}" SelectionChanged="UserFilterOptions_ComboBox_SelectionChanged" Width="225" Grid.ColumnSpan="2" VerticalAlignment="Center"/>
+
+                    <Button Content="⟳" Name="RefreshUsersBtn" FontSize="20" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="RefreshUsersBtn_Click"/>
+                    <Button Content="➕" Name="UserAddBtn" FontSize="20" Grid.Row="1" Grid.Column="3" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="UserAddBtn_Click"/>
+                    <Button Content="🗑️" Name="UserRemoveBtn" FontSize="20" Grid.Row="1" Grid.Column="4" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="UserRemoveBtn_Click"/>
+                    <Button Content="⚙️" Name="UserUpdateBtn" FontSize="20" Grid.Row="1" Grid.Column="5" HorizontalAlignment="Stretch" Margin="8,0,8,0" Click="UserUpdateBtn_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

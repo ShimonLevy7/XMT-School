@@ -1,0 +1,5 @@
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\bin\Release\net7.0-windows\publish\win-x86\XmtSchool_TeachersApp.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\bin\Release\net7.0-windows\publish\win-x86\XmtSchoolReferences.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\bin\Release\net7.0-windows\publish\win-x86\XmtSchoolTypes.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\bin\Release\net7.0-windows\publish\win-x86\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\bin\Release\net7.0-windows\publish\win-x86\XmtSchool_TeachersApp.exe

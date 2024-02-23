@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "XmtSchoolTypes/1.0.0": {
+        "dependencies": {
+          "XmtSchoolUtils": "1.0.0"
+        },
+        "runtime": {
+          "XmtSchoolTypes.dll": {}
+        }
+      },
+      "XmtSchoolUtils/1.0.0": {
+        "runtime": {
+          "XmtSchoolUtils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XmtSchoolTypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XmtSchoolUtils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

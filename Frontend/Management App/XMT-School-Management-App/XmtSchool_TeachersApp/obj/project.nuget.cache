@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGwbO1/Mh8MC86IZOqXwFyW+220dobsakgog1/Sq5Zq/zFJjxFozuLMRs8aWzRM2iRAljYMLEFOxQek0zNS4SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\XmtSchool_TeachersApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Se7en\\.nuget\\packages\\modernwpfui\\0.9.6\\modernwpfui.0.9.6.nupkg.sha512",
+    "C:\\Users\\Se7en\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

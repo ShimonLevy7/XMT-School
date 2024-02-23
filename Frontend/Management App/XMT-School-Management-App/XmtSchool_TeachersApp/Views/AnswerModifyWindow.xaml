@@ -1,0 +1,36 @@
+﻿<Window x:Class="XmtSchool_TeachersApp.Views.AnswerModifyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XmtSchoolTypes.Tests;assembly=XmtSchoolTypes"
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+        ui:WindowHelper.UseModernWindowStyle="True"
+        mc:Ignorable="d"
+        Height="250" Width="550"
+        Title="{Binding WindowTitle}"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Loaded="Window_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="12px"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="12px"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="12px"/>
+        </Grid.RowDefinitions>
+
+        <Label Content="Answer Text:" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        <TextBox x:Name="Answer_TextBox" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Grid.Row="2"/>
+
+        <CheckBox Name="AnswerState" Content="Correct Answer" Grid.Row="4" Margin="10,0,0,0"/>
+
+        <Button TabIndex="2" IsDefault="True" Name="Confirm_Button" Content="Confirm" Grid.Row="4" Width="75" Margin="195,0,0,0" Click="Confirm_Button_Click"/>
+        <Button TabIndex="3" IsCancel="True" Name="Cancel_Button" Content="Cancel" Grid.Row="4" Width="75" Margin="275,0,0,0"/>
+
+    </Grid>
+</Window>

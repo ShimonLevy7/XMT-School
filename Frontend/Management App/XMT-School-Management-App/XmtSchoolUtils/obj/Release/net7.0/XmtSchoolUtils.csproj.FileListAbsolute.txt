@@ -1,0 +1,35 @@
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.deps.json
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.AssemblyInfoInputs.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.AssemblyInfo.cs
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\refint\XmtSchoolUtils.dll
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\source\repos\XMT School Project\XMT School Project\Backend\WebApi\xmt_school_server_cs_asp.net\XmtSchoolUtils\obj\Release\net7.0\ref\XmtSchoolUtils.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.deps.json
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.AssemblyInfoInputs.cache
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.AssemblyInfo.cs
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.sourcelink.json
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\refint\XmtSchoolUtils.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\ref\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.deps.json
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.AssemblyInfoInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.AssemblyInfo.cs
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.sourcelink.json
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\refint\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolUtils\obj\Release\net7.0\ref\XmtSchoolUtils.dll

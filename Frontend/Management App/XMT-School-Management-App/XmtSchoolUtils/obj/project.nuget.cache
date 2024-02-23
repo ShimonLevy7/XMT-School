@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "StL0Q4bY/YIVor3vBoW9/enjwh3IXfCpf/QccubNaWOAOnAxYgLyFHp97aTNSKwZi6Yu3QyQYXjJlXN1KMnIbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolUtils\\XmtSchoolUtils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\7.0.16\\microsoft.netcore.app.runtime.win-x86.7.0.16.nupkg.sha512",
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\7.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.7.0.16.nupkg.sha512",
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\7.0.16\\microsoft.aspnetcore.app.runtime.win-x86.7.0.16.nupkg.sha512",
+    "C:\\Users\\Se7en\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\7.0.16\\microsoft.netcore.app.crossgen2.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolReferences.deps.json
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolReferences.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolReferences.pdb
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.csproj.AssemblyReference.cache
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.AssemblyInfoInputs.cache
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.AssemblyInfo.cs
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.sourcelink.json
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.csproj.CopyComplete
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\refint\XmtSchoolReferences.dll
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.pdb
+C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\ref\XmtSchoolReferences.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolReferences.deps.json
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolReferences.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolReferences.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolTypes.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolUtils.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolTypes.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\bin\Release\net7.0\XmtSchoolUtils.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.csproj.AssemblyReference.cache
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.AssemblyInfoInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.AssemblyInfo.cs
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.csproj.CoreCompileInputs.cache
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.sourcelink.json
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.csproj.CopyComplete
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\refint\XmtSchoolReferences.dll
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\XmtSchoolReferences.pdb
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchoolReferences\obj\Release\net7.0\ref\XmtSchoolReferences.dll

@@ -1,0 +1,20 @@
+﻿XmtSchool_TeachersApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\obj\Release\net7.0-windows\
+XmtSchool_TeachersApp
+none
+false
+TRACE;RELEASE;NET;NET7_0;NETCOREAPP
+C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\App.xaml
+634516864
+1-1446027684
+28541102818
+204-2089733102
+Views\AnswerModifyWindow.xaml;Views\LoginWindow.xaml;Views\MainWindow.xaml;Views\QuestionModifyWindow.xaml;Views\TestModifyWindow.xaml;Views\UserModifyWindow.xaml;
+
+True
+
