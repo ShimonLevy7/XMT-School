@@ -9,3 +9,5 @@ Basic features:
 * Has a website and an app for different types of users.
 
 Refer to the included presentation to know more about the selling points of the project!
+
+P.S.: You must have your own database (this project uses MySQL by default), as this project depends on it.
