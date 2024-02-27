@@ -1,15 +1,25 @@
-# XMT-School
-This is the XMT School project, a project made to show how simple it can be to manage a school online.
+XMT School is a modern online platform designed to simplify school management and testing processes. With a focus on security, efficiency, and user-friendliness, XMT School offers a seamless experience for both students and teachers.
 
-When set up right, this project will allow you to have a fully fledged tests taking system!
-Basic features:
-* Security and efficiency are first and foremost.
-* Dynamically configurable.
-* Using most up to date technologies.
-* Has a website and an app for different types of users.
+## Features
 
-Refer to the included presentation to know more about the selling points of the project!
+-    Easy test creation and management
+-    Secure user authentication
+-    Modern and mobile-friendly website
+-    Efficient communication between users and database
 
-As of the date of posting this project, you may visit a live version of it [here](https://xmt-school.tiro-finale.com/).
+## Technologies Used
 
-P.S.: You must have your own database (this project uses MySQL by default), as this project depends on it.
+-    Frontend: React, WPF
+-    Backend: ASP.NET Core
+-    Database: MySQL
+-    Additional Tools: Swagger API, Newtonsoft.Json
+
+## Getting Started
+
+To get started with XMT School, simply visit our [live demo](https://xmt-school.tiro-finale.com/) and explore the features. If you're interested in deploying your own instance, refer to the documentation in the repository.
+
+## Contributors
+
+XMT School was created by Shimon Levy and Alon Turgeman, with a focus on combining innovation with timeless wisdom in education.
+
+Thank you for your interest in XMT School!
