@@ -36,13 +36,11 @@ To deploy the XMT School Web API, follow these steps:
 
 1. Clone the repository:
    `git clone https://github.com/your/repository.git`
-2. Install dependencies:
-   `cd xmt-school-api`
-   `npm install`
-3. Add a MySQL database token in `..\xmt_school_server_cs_asp.net\XmtSchoolWebApi\appsettings.json`.
-4. Run the API:
-   `npm start`
-5. The API will be running on http://localhost:3000 by default.
+2. Open the solution file `XmtSchoolWebApi.sln` in Visual Studio.
+3. Navigate to the `appsettings.json` file in the `XmtSchoolWebApi` project and add a token for your MySQL database.
+4. Build the solution.
+5. Run the API project (`XmtSchoolWebApi`) in Visual Studio.
+6. The API will be running on `http://localhost:port` by default.
 
 For more detailed deployment instructions, refer to the documentation in the repository.
 
