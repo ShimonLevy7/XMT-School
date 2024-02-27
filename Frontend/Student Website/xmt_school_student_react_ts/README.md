@@ -35,8 +35,8 @@ To deploy the XMT School website, follow these steps:
 1. Clone the repository:
    `git clone https://github.com/your/repository.git`
 2. Install dependencies:
-   `cd xmt-school-website
-npm install`
+   `cd xmt-school-website`
+   `npm install`
 3. Build the project:
    `npm run build`
 4. Deploy the build folder to your web server.
