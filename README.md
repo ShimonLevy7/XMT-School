@@ -20,6 +20,6 @@ To get started with XMT School, simply visit our [live demo](https://xmt-school.
 
 ## Contributors
 
-XMT School was created by Shimon Levy and Alon Turgeman, with a focus on combining innovation with timeless wisdom in education.
+XMT School was created by [Shimon Levy](https://github.com/ShimonLevy7) and Alon Turgeman, with a focus on combining innovation with timeless wisdom in education.
 
 Thank you for your interest in XMT School!
