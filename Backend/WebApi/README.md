@@ -22,13 +22,21 @@ With a focus on efficiency, the API efficiently handles data requests and respon
 
 The API is documented using Swagger, providing a clear and interactive documentation for developers.
 
-### Image Placeholder - Login Endpoint
+### Project Structure
 
-![Login Endpoint](https://example.com/login-endpoint.png)
+![Project Structure](https://tiro-finale.com/images/HackerU/Structure.png)
 
-### Image Placeholder - User Management Endpoint
+### Endpoints - Login Endpoint
 
-![User Management Endpoint](https://example.com/user-management-endpoint.png)
+![Login Endpoint](https://tiro-finale.com/images/HackerU/Login.png)
+
+### Endpoints - Users Management Endpoint
+
+![Users Management Endpoint](https://tiro-finale.com/images/HackerU/Users.png)
+
+### Endpoints - Tests Management Endpoint
+
+![Tests Management Endpoint](https://tiro-finale.com/images/HackerU/Tests.png)
 
 ## Deployment
 
