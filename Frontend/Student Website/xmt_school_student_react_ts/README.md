@@ -1,46 +1,46 @@
-# Getting Started with Create React App
+# XMT School Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to the XMT School website, a modern platform designed for seamless test-taking and school management. This documentation will guide you through the features of the website and provide basic instructions for deployment.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### Modern Design
 
-### `npm start`
+The website features a sleek and modern design, providing a user-friendly experience for students, teachers, and administrators.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Responsive Layout
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Built with responsiveness in mind, the website is fully optimized for both desktop and mobile devices, ensuring a consistent experience across all platforms.
 
-### `npm test`
+### User Authentication
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Secure user authentication ensures that only authorized users have access to sensitive information and features.
 
-### `npm run build`
+### Test Management
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Teachers can easily create, manage, and grade tests through the website, streamlining the testing process.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Profile Management
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Users can view and update their profiles, ensuring that their information is up-to-date.
 
-### `npm run eject`
+### Easy Navigation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+The website features a user-friendly interface with easy navigation, making it simple for users to find what they need.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Deployment
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To deploy the XMT School website, follow these steps:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+1. Clone the repository:
+   `git clone https://github.com/your/repository.git`
+2. Install dependencies:
+   `cd xmt-school-website
+npm install`
+3. Build the project:
+   `npm run build`
+4. Deploy the build folder to your web server.
 
-## Learn More
+For more detailed deployment instructions, refer to the documentation in the repository.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank you for using XMT School Website!
