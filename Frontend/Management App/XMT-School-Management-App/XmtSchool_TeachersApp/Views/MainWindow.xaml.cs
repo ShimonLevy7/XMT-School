@@ -246,7 +246,7 @@ namespace XmtSchool.TeachersAppViews
         {
             try
             {
-                IsEnabled = false; 
+                IsEnabled = false;
 
                 await InitTestsListAsync(true);
             }
@@ -943,7 +943,7 @@ namespace XmtSchool.TeachersAppViews
             // Enable ContextUserUpdate based on the state.
             ContextUserUpdate.IsEnabled = state;
 
-            // ContextUserRemove availability is determined by both the state and the 
+            // ContextUserRemove availability is determined by both the state and the
             // enablement of the UserRemoveBtn, indicating if the current user is allowed
             // to remove other users.
             ContextUserRemove.IsEnabled = UserRemoveBtn.IsEnabled & state;
@@ -1006,7 +1006,7 @@ namespace XmtSchool.TeachersAppViews
 			{
                 if (TestSearch.Text == "Search...")
                     return true;
-                
+
 				return test.Test.Name.ToLower().Contains(TestSearch.Text.ToLower());
 			}
 
@@ -1086,8 +1086,8 @@ namespace XmtSchool.TeachersAppViews
 			}
 
 			CollectionView view = (CollectionView)CollectionViewSource.GetDefaultView(listView.ItemsSource);
-            
-            // Convert object to typ when sending request to filter func.
+
+            // Convert object to type when sending request to filter func.
             // It's easier to use later.
 			view.Filter = (object obj) => filterFunc((T)obj);
 		}
