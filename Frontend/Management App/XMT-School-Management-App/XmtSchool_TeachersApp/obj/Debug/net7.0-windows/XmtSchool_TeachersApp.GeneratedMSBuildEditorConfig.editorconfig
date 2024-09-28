@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = XmtSchool_TeachersApp
-build_property.ProjectDir = C:\Users\Se7en\Desktop\XMT School Project\XMT-School-Indev\PROJECT FILES\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\
+build_property.ProjectDir = C:\Users\Se7en\Documents\GitHub\XMT-School\Frontend\Management App\XMT-School-Management-App\XmtSchool_TeachersApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

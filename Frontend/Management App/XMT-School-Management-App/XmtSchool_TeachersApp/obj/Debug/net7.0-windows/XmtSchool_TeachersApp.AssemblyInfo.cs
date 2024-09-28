@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XmtSchool_TeachersApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+851d23247530909396c01ec0bd08ec7e64b5a8c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a763c2fd388d13c1d67a9f2411e8991c7d4364e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("XmtSchool_TeachersApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XmtSchool_TeachersApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

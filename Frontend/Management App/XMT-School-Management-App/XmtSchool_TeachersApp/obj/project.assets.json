@@ -1057,11 +1057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\XmtSchool_TeachersApp.csproj",
+      "projectUniqueName": "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\XmtSchool_TeachersApp.csproj",
       "projectName": "XmtSchool_TeachersApp",
-      "projectPath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\XmtSchool_TeachersApp.csproj",
+      "projectPath": "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\XmtSchool_TeachersApp.csproj",
       "packagesPath": "C:\\Users\\Se7en\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\obj\\",
+      "outputPath": "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchool_TeachersApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1083,11 +1083,11 @@
         "net7.0-windows7.0": {
           "targetAlias": "net7.0-windows",
           "projectReferences": {
-            "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolReferences\\XmtSchoolReferences.csproj": {
-              "projectPath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolReferences\\XmtSchoolReferences.csproj"
+            "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolReferences\\XmtSchoolReferences.csproj": {
+              "projectPath": "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolReferences\\XmtSchoolReferences.csproj"
             },
-            "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolTypes\\XmtSchoolTypes.csproj": {
-              "projectPath": "C:\\Users\\Se7en\\Desktop\\XMT School Project\\XMT-School-Indev\\PROJECT FILES\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolTypes\\XmtSchoolTypes.csproj"
+            "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolTypes\\XmtSchoolTypes.csproj": {
+              "projectPath": "C:\\Users\\Se7en\\Documents\\GitHub\\XMT-School\\Frontend\\Management App\\XMT-School-Management-App\\XmtSchoolTypes\\XmtSchoolTypes.csproj"
             }
           }
         }
@@ -1098,7 +1098,9 @@
         ]
       },
       "restoreAuditProperties": {
-        "enableAudit": "default"
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -1133,7 +1135,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
